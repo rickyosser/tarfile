@@ -3,7 +3,7 @@
 """
 This was shamelessly stolen from Micropython stdlib to be able to untar files in CircuitPython which does not support uctypes.
 
-©2024 Bluapp AB, Rickard Osser <rickard.osser@bluapp.com>
+Changes ©2024 Bluapp AB, Rickard Osser <rickard.osser@bluapp.com>
 
 
 """
